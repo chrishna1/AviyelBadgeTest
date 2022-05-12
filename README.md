@@ -5,6 +5,7 @@ Line 4
 # Contributors
 - Dinkan
 - AFK-Z10
+- jswe
 
 # Ideas
 - A documentation app.
